@@ -8,7 +8,7 @@ export default function Home() {
   
   return (
    
-     <Typography> ZDRAVIM! </Typography>
+     <Typography> Domovska stranka </Typography>
    
   );
 } 

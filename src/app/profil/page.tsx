@@ -8,7 +8,7 @@ export default function ProfileList() {
   
   return (
    
-     <Typography> O mne </Typography>
+     <Typography> Profil </Typography>
    
   );
 } 
