@@ -26,3 +26,5 @@ cd .. (chod o jedno vyssie)
 git init
 git branch -m main
 git add .
+
+npm run dev (spusti server)
