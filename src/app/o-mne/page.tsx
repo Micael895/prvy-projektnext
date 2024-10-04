@@ -9,7 +9,7 @@ export default function AboutMe() {
   
   return (
    
-     <Typography> Profily </Typography>
+     <Typography> O mne </Typography>
 
   );
 } 
